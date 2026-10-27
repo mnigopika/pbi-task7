@@ -19,8 +19,6 @@ The aim is to turn a raw CSV dataset into an interactive, easy-to-understand vie
 
 ## 🖼️ Dashboard Preview
 
-> The image below is a **conceptual mockup** to illustrate a possible dashboard layout. It is not a screenshot or a verified view of the supplied `.pbix` report.
-
 <img width="906" height="514" alt="Screenshot 2026-10-27 195746" src="https://github.com/user-attachments/assets/d9c649cf-3249-4838-a323-bd2b17f80f64" />
 
 
